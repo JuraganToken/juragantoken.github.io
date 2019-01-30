@@ -1,0 +1,10 @@
+FEDERATION_SERVER="https://api.stellar.org/federation/"
+
+[[CURRENCIES]]
+name="Juragan Token"
+code="GAN"
+desc="Juragan Token is e-commerce payment token."
+conditions="Buy and use Juragan Token as payment method to sell anything and growing up your businesses."
+issuer="GADF36ZOQNWWIN7KDPBWCCN6WWJI2X7YIBPWAA3U2674TS27RJKRTGAN"
+display_decimals=5
+image="https://juragan.top/logo.png"
