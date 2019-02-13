@@ -8,3 +8,12 @@ conditions="Buy and use Juragan Token as payment method to sell anything and gro
 issuer="GADF36ZOQNWWIN7KDPBWCCN6WWJI2X7YIBPWAA3U2674TS27RJKRTGAN"
 display_decimals=5
 image="https://juragan.top/logo.png"
+
+[[CURRENCIES]]
+name="Serutu"
+code="SERUTU"
+desc="Serutu brings finest herbal spices cigar worldwide over blockchain. It's a flagship product of Juragan Token. Please visit https://serutu.juragan.top to get more informations."
+conditions="Buy and use Serutu (Ticker : SERUTU) if you willing to buy herbal spices cigar (called Serutu) over blockchain."
+issuer="GADF36ZOQNWWIN7KDPBWCCN6WWJI2X7YIBPWAA3U2674TS27RJKRTGAN"
+display_decimals=5
+image="https://serutu.juragan.top/logo.png"
